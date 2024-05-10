@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/RizqyNurfauzella/Assessment2MOBPRO/blob/master/app/src/main/res/drawable-nodpi/logo.png" width="150">
   <img src="https://github.com/RizqyNurfauzella/Assessment2MOBPRO/blob/master/app/src/main/res/drawable-nodpi/text.png" width="20%">
 </p>
