@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Myusic</string>
+    <string name="list_kosong">Belum ada data musik</string>
+    <string name="list_lagu">List Lagu</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_catatan">Tambah Musik</string>
+    <string name="tambah_error">Belum bisa tambah musik</string>
+
+    <string name="judul">Judul</string>
+    <string name="judul_lagu">Judul Lagu</string>
+    <string name="penyanyi">Penyanyi</string>
+    <string name="genre">Genre</string>
+    <string name="tahun_terbit">Tahun Terbit</string>
+    <string name="isi_music">Isi Music</string>
+
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+
+    <string name="edit_catatan">Ubah musik</string>
+
+    <string name="invalid">Judul dan isi musik tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+
+    <string name="tambah_lagu">Tambah Lagu</string>
+    <string name="edit_lagu">Edit Lagu</string>
+    <string name="hapus">Hapus musik</string>
+
+    <string name="pesan_hapus_musik">Hapus data musik ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Myusic adalah sebuah aplikasi yang dirancang untuk membantu anda dalam mengelola dan mengatur koleksi musik.\n\nAplikasi ini dibuat untuk MiniProject2 Mobpro1.\n\n
+        Copyright © 2024 Rizqy Nurfauzella\nAll rights reserved.</string>
+</resources>
