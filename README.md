@@ -5,21 +5,36 @@
 
 <h1 align="center"><b>🎵 Myusic</b></h1>
 
+> 🎧 Kelola musikmu, tanpa ribet.  
+> 📂 Atur playlist sesuka hati, kapan pun dan di mana pun.
 
-🎧 Kelola musikmu, tanpa ribet.
-📂 Atur playlist sesuka hati, kapan pun dan di mana pun.
+**Myusic** adalah aplikasi manajemen musik berbasis Android yang membantu Anda dalam mengelola dan menikmati koleksi musik pribadi dengan lebih mudah dan menyenangkan.
 
-Myusic adalah aplikasi manajemen musik yang dirancang untuk membantu Anda dalam mengelola, mengatur, dan menikmati koleksi musik pribadi dengan mudah. Cocok untuk pencinta musik yang ingin pengalaman mendengarkan yang lebih terorganisir dan personal.
+---
 
-✨ Fitur Unggulan:
-🎶 Kelola koleksi lagu secara efisien
+### ✨ Fitur Unggulan
+- 🎶 Kelola koleksi lagu
+- 📁 Buat dan sesuaikan playlist
+- 🔍 Fitur pencarian cepat
+- 🌙 Mode gelap untuk kenyamanan visual
 
-📁 Buat dan sesuaikan playlist favorit Anda
+---
 
-🔍 Pencarian cepat dan tampilan antarmuka yang simpel
+### 🧪 Teknologi
+- 💻 Kotlin (Native Android)
+- 🎵 MediaPlayer API
+- 🧩 ViewBinding
+- 🎨 Material UI
 
-🌙 Mode gelap untuk kenyamanan mendengarkan kapan saja
+---
 
-💡 Myusic dibuat dengan cinta untuk para penikmat musik sejati.
+### 🚀 Cara Menjalankan
+1. Clone repository ini  
+2. Buka dengan Android Studio  
+3. Klik **Run**
+
+---
+
+💡 **Myusic dibuat dengan cinta untuk para penikmat musik sejati.**
 
 <p align="center"><sub>Copyright © 2024 Rizqy Nurfauzella</sub></p>
