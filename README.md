@@ -3,7 +3,23 @@
   <img src="https://github.com/RizqyNurfauzella/Assessment2MOBPRO/blob/master/app/src/main/res/drawable-nodpi/text.png" width="20%">
 </p>
 
-# MYUSIC
+<h1 align="center"><b>🎵 Myusic</b></h1>
 
-Myusic adalah sebuah aplikasi yang dirancang untuk membantu anda dalam mengelola dan mengatur koleksi musik. 
-Copyright © 2024 Rizqy Nurfauzella
+
+🎧 Kelola musikmu, tanpa ribet.
+📂 Atur playlist sesuka hati, kapan pun dan di mana pun.
+
+Myusic adalah aplikasi manajemen musik yang dirancang untuk membantu Anda dalam mengelola, mengatur, dan menikmati koleksi musik pribadi dengan mudah. Cocok untuk pencinta musik yang ingin pengalaman mendengarkan yang lebih terorganisir dan personal.
+
+✨ Fitur Unggulan:
+🎶 Kelola koleksi lagu secara efisien
+
+📁 Buat dan sesuaikan playlist favorit Anda
+
+🔍 Pencarian cepat dan tampilan antarmuka yang simpel
+
+🌙 Mode gelap untuk kenyamanan mendengarkan kapan saja
+
+💡 Myusic dibuat dengan cinta untuk para penikmat musik sejati.
+
+<p align="center"><sub>Copyright © 2024 Rizqy Nurfauzella</sub></p>
